@@ -1,0 +1,20 @@
+h1 {
+	color: #cc6600;
+	text-align: center;
+}
+h2 {
+	color: #6699ff;
+	text-align: center;
+}
+body {
+	background-image: url(https://www.yahoo.com/sy/ny/api/res/1.2/TWTgUbyjYLh9pgZnEy936w--/YXBwaWQ9aGlnaGxhbmRlcjtzbT0xO3c9ODAw/http://media.zenfs.com/en/homerun/feed_manager_auto_publish_494/53dfcd80191d07c945815e9d3c6462d8);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-attachment: fixed;
+	background-size: 100%; 	
+	color: blue;
+}
+
+.bear_image{
+	max-width: 100% 
+}
